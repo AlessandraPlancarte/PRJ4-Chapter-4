@@ -1,2 +1,2 @@
 # PRJ4-Chapter-4
-Check #3 CSS. Make a container
+Check #3 Simple CSS. Make a container
