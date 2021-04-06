@@ -1,21 +1,39 @@
 @charset "UTF-8";
+
 #name{
 	color: mediumturquoise; 
 	font-weight: bold;
 	font-size: 60px;
-	text-align: center}
-.image{margin-left: 300px;}
-h3{font-style: italic;
-text-align: center}
+	text-align: center;
+}
+
+.image{
+	margin-left: 300px;
+}
+
+h3{
+	font-style: italic;
+	text-align: center;
+}
+
 .headers{
 	font-family: Lato; 
-	color: lightcoral}
-#phrase {color: #CD9BF3}
-p{font-family: Lato; 
-	font-size: 16px}
+	color: lightcoral;
+}
+
+#phrase {
+	color: #CD9BF3;
+}
+
+p{
+	font-family: Lato; 
+	font-size: 16px;
+}
+
 .box1, .box2{
 	color: black;
 	text-align: center;
 	padding: 0.5em,;
 	background-color:#CCEAF9;
-	border: mediumturquoise 8px dotted;}
+	border: mediumturquoise 8px dotted;
+}
